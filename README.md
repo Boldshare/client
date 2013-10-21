@@ -1,4 +1,4 @@
 client
 ======
 
-Open sourced client of our encrypted clout storage.
+Open sourced client of our encrypted cloud storage.
